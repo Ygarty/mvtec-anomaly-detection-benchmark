@@ -1,0 +1,48 @@
+category,defect_type,n_images,tpr_patchcore,tpr_padim_wrn50
+screw,manipulated_front,24,0.708,0.125
+screw,scratch_head,24,0.875,0.083
+screw,scratch_neck,25,1.0,0.04
+screw,thread_side,23,0.565,0.0
+screw,thread_top,23,0.957,0.087
+screw,ALL DEFECTS,119,0.824,0.067
+cable,bent_wire,13,1.0,0.615
+cable,cable_swap,12,0.917,0.083
+cable,combined,11,1.0,0.636
+cable,cut_inner_insulation,14,1.0,0.143
+cable,cut_outer_insulation,10,1.0,0.5
+cable,missing_cable,12,1.0,1.0
+cable,missing_wire,10,1.0,0.1
+cable,poke_insulation,10,0.9,0.0
+cable,ALL DEFECTS,92,0.978,0.391
+capsule,crack,23,1.0,0.478
+capsule,faulty_imprint,22,0.909,0.045
+capsule,poke,21,1.0,0.286
+capsule,scratch,23,0.913,0.435
+capsule,squeeze,20,1.0,0.85
+capsule,ALL DEFECTS,109,0.963,0.413
+hazelnut,crack,18,1.0,0.778
+hazelnut,cut,17,1.0,0.529
+hazelnut,hole,18,1.0,0.556
+hazelnut,print,17,1.0,0.706
+hazelnut,ALL DEFECTS,70,1.0,0.643
+pill,color,25,0.68,0.4
+pill,combined,17,0.824,0.529
+pill,contamination,21,0.81,0.524
+pill,crack,26,0.654,0.308
+pill,faulty_imprint,19,0.737,0.263
+pill,pill_type,9,1.0,0.667
+pill,scratch,24,0.833,0.375
+pill,ALL DEFECTS,141,0.766,0.411
+grid,bent,12,1.0,1.0
+grid,broken,12,1.0,0.917
+grid,glue,11,0.727,0.273
+grid,metal_contamination,11,1.0,0.818
+grid,thread,11,1.0,0.364
+grid,ALL DEFECTS,57,0.947,0.684
+toothbrush,defective,30,0.6,0.533
+toothbrush,ALL DEFECTS,30,0.6,0.533
+transistor,bent_lead,10,1.0,1.0
+transistor,cut_lead,10,1.0,0.6
+transistor,damaged_case,10,1.0,0.5
+transistor,misplaced,10,1.0,1.0
+transistor,ALL DEFECTS,40,1.0,0.775

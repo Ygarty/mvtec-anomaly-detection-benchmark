@@ -1,4 +1,6 @@
 .venv/
 results/
 __pycache__/
+.ipynb_checkpoints/
 *.ckpt
+*.pyc
