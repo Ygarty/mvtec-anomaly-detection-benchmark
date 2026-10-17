@@ -30,7 +30,7 @@ CATEGORIES = [
 VARIANTS = {
     "patchcore": (Patchcore, {}),
     "padim": (Padim, {}),
-    "padim_wrn50": (Padim, {"backbone": "wide_resnet50_2"}),
+    "padim_wrn50": (Padim, {"backbone": "wide_resnet50_2", "n_features": 100}),
     "patchcore_r18": (Patchcore, {"backbone": "resnet18"}),
 }
 
